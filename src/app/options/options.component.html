@@ -1,0 +1,12 @@
+<p>
+  options works!
+</p>
+<app-people 
+  [header]="'Table 1'"
+  [dataChild]="data" (fromChild)="childEvent">
+</app-people>
+
+<app-people 
+  [header]="'Table 2'"
+  [dataChild]="data2" (fromChild)="childEvent">
+</app-people>

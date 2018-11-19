@@ -1,0 +1,18 @@
+{
+    "data": [
+        {"id": 1, "name": "Anton"
+        },
+        {"id": 2, "name": "Vladi"
+        },
+        {"id": 3, "name": "Bozhidar"
+        }
+    ],
+    "data2": [
+        {"id": 11, "name": "Anton1"
+        },
+        {"id": 21, "name": "Vladi1"
+        },
+        {"id": 31, "name": "Bozhidar1"
+        }
+    ]
+}
